@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+
+
+<title>Index</title>
+
+<!--I'd ideally like to make this a one-page deal with a long scroll-->
+
+</head>
+<body>
+<h1>Work</h1>
+<p>This is a small collection of some of the work I do.</p>
+
+<a href="http://www.google.com" title="These are my logos.">Logos</a>
+<a href="http://www.google.com" title="These are some posters I've made.">Posters</a>
+<a href="http://www.google.com" title="This is some of my web work.">Web</a>
+<a href="http://www.google.com" title="This is a collection of other things.">Other</a>
+
+
+</body>
+</html>
