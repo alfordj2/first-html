@@ -5,19 +5,20 @@ h1 {
   font-family: Georgia, Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  line-height: .5em;
+  line-height: 2em;
 }
 
 h2 {
   font-family: Georgia;
   font-style: italic;
   font-weight: bold;
-  line-height: .5em;
+  line-height: 2em;
 }
 
 p {
   font-family: Palatino, Helvetica;
   font-size: 9px;
   font-variant:small-caps;
+  line-height: .5em;
   
 }
